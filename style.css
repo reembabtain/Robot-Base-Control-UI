@@ -1,0 +1,80 @@
+body {
+    background-color: lightblue;
+  }
+  
+   h1 {
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  } 
+
+
+#button1{
+  width: 90px;
+  height: 40px;
+  margin-left: 610px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  font-family: verdana;
+  font-size: 15px;
+    
+  }
+
+#button2{
+  width: 90px;
+  height: 40px;
+  margin-left: 490px;
+  border-radius: 8px;
+  font-family: verdana;
+  font-size: 15px;
+        
+  }
+
+#button3{
+  width: 90px;
+  height: 40px;
+  margin-left: 25px;
+  border-radius: 8px;
+  font-family: verdana;
+  font-size: 15px;
+            
+  }
+
+#button4{
+  width: 90px;
+  height: 40px;
+  margin-left: 25px;
+  border-radius: 8px;
+  font-family: verdana;
+  font-size: 15px;
+                
+  }
+
+#button5{
+  width: 90px;
+  height: 40px;
+  margin-left: 610px;
+  margin-top: 20px;
+  border-radius: 8px;
+  font-family: verdana;
+  font-size: 15px;
+                    
+  }
+
+  /* This code for Responsive Web Page*/
+  .column {
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .column {
+      width: 50%;
+    }
+  } 
+
+            
+
+ 
+
+    
